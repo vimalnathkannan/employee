@@ -1,0 +1,28 @@
+{
+  "Employee": [
+    {
+      "name": "vimalnath",
+      "email": "vimalnathkanan@gmail,.ocm",
+      "phone": "823682676",
+      "address": "mannarguydi",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "vintoh",
+      "email": "vinmopd344",
+      "phone": "521457863",
+      "address": "thnajai",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "karun",
+      "email": "kuttyandu@gmail,com",
+      "phone": "54648",
+      "address": "kumbakonam",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
